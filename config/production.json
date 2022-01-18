@@ -2,5 +2,5 @@
   "port": 5000,
   "jwtSecret": "softbook development",
   "mongoUri": "mongodb+srv://superadmin:lHh5YCMf@cluster0.po3m5.mongodb.net/auto",
-  "baseUrl" : "http://softbook.space:5000"
+  "baseUrl" : "http://link.softbook.space"
 }
